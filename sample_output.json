@@ -1,0 +1,251 @@
+{
+  "bucknell.edu": {
+    "overview": {
+      "university_name": "Bucknell.edu",
+      "location": {
+        "city": "Mock City",
+        "state": "Mock State",
+        "country": "USA",
+        "postal_code": "12345"
+      },
+      "contact": {
+        "phone": "555-0199",
+        "email": "admissions@bucknell.edu"
+      }
+    },
+    "tuition_breakdown": [
+      {
+        "fee_type": "In-State Tuition",
+        "cost": 15000,
+        "currency": "USD"
+      },
+      {
+        "fee_type": "Out-of-State Tuition",
+        "cost": 30000,
+        "currency": "USD"
+      },
+      {
+        "fee_type": "Technology Fee",
+        "cost": 250,
+        "currency": "USD"
+      }
+    ],
+    "admission_deadlines": [
+      {
+        "deadline_type": "Regular Decision",
+        "deadline_date": "January 15",
+        "notes": "Simulated fall semester deadline."
+      }
+    ],
+    "page_metadata": [
+      {
+        "url": "https://bucknell.edu",
+        "page_title": "Bucknell University | Liberal Arts, Engineering, & Management Colleges",
+        "scraped_at": "2026-06-01T10:41:17.372941",
+        "status_code": "200"
+      },
+      {
+        "url": "https://bucknell.edu/admissions-aid/tuition-fees-financial-aid",
+        "page_title": "Tuition, Fees & Financial Aid",
+        "scraped_at": "2026-06-01T10:41:17.373009",
+        "status_code": "200"
+      },
+      {
+        "url": "https://bucknell.edu/admissions-aid/admissions-dates-deadlines",
+        "page_title": "Admissions Dates & Deadlines",
+        "scraped_at": "2026-06-01T10:41:17.373021",
+        "status_code": "200"
+      },
+      {
+        "url": "https://bucknell.edu/admissions-aid/apply-bucknell",
+        "page_title": "Apply to Bucknell",
+        "scraped_at": "2026-06-01T10:41:17.373030",
+        "status_code": "200"
+      },
+      {
+        "url": "https://bucknell.edu/admissions-aid",
+        "page_title": "Admissions & Financial Aid Information \u2014 Bucknell University",
+        "scraped_at": "2026-06-01T10:41:17.373039",
+        "status_code": "200"
+      },
+      {
+        "url": "https://bucknell.edu/admissions-aid/admissions",
+        "page_title": "Office of Admissions | Bucknell",
+        "scraped_at": "2026-06-01T10:41:17.373048",
+        "status_code": "200"
+      },
+      {
+        "url": "https://bucknell.edu/admissions-aid/admissions-blog",
+        "page_title": "Bucknell Admissions Blog & Podcast | Tips, Stories & Insights",
+        "scraped_at": "2026-06-01T10:41:17.373056",
+        "status_code": "200"
+      }
+    ]
+  },
+  "udc.edu": {
+    "overview": {
+      "university_name": "Udc.edu",
+      "location": {
+        "city": "Mock City",
+        "state": "Mock State",
+        "country": "USA",
+        "postal_code": "12345"
+      },
+      "contact": {
+        "phone": "555-0199",
+        "email": "admissions@udc.edu"
+      }
+    },
+    "tuition_breakdown": [
+      {
+        "fee_type": "In-State Tuition",
+        "cost": 15000,
+        "currency": "USD"
+      },
+      {
+        "fee_type": "Out-of-State Tuition",
+        "cost": 30000,
+        "currency": "USD"
+      },
+      {
+        "fee_type": "Technology Fee",
+        "cost": 250,
+        "currency": "USD"
+      }
+    ],
+    "admission_deadlines": [
+      {
+        "deadline_type": "Regular Decision",
+        "deadline_date": "January 15",
+        "notes": "Simulated fall semester deadline."
+      }
+    ],
+    "page_metadata": [
+      {
+        "url": "https://udc.edu",
+        "page_title": "University of the District of Columbia, Washington, DC - HBCU, Land-Grant University | University of the District of Columbia",
+        "scraped_at": "2026-06-01T10:41:33.911424",
+        "status_code": "200"
+      },
+      {
+        "url": "https://www.udc.edu/admissions/tuition-fees",
+        "page_title": "Tuition & Fees | Admissions | University of the District of Columbia",
+        "scraped_at": "2026-06-01T10:41:33.911474",
+        "status_code": "200"
+      },
+      {
+        "url": "https://www.udc.edu/admissions/admission-deadlines",
+        "page_title": "Admission Deadlines | Admissions | University of the District of Columbia",
+        "scraped_at": "2026-06-01T10:41:33.911481",
+        "status_code": "200"
+      },
+      {
+        "url": "https://www.udc.edu/financial-aid/cost-of-attendance",
+        "page_title": "Cost of Attendance | Admissions | University of the District of Columbia",
+        "scraped_at": "2026-06-01T10:41:33.911486",
+        "status_code": "200"
+      },
+      {
+        "url": "https://www.udc.edu/apply/index",
+        "page_title": "How to Apply | University of the District of Columbia",
+        "scraped_at": "2026-06-01T10:41:33.911491",
+        "status_code": "200"
+      },
+      {
+        "url": "https://www.udc.edu/admissions/index",
+        "page_title": "Admission | University of the District of Columbia",
+        "scraped_at": "2026-06-01T10:41:33.911496",
+        "status_code": "200"
+      },
+      {
+        "url": "https://www.udc.edu/admissions/admissions-standards",
+        "page_title": "Admissions Standards at the University of The District of Columbia | Admissions | University of the District of Columbia",
+        "scraped_at": "2026-06-01T10:41:33.911501",
+        "status_code": "200"
+      }
+    ]
+  },
+  "salisbury.edu": {
+    "overview": {
+      "university_name": "Salisbury.edu",
+      "location": {
+        "city": "Mock City",
+        "state": "Mock State",
+        "country": "USA",
+        "postal_code": "12345"
+      },
+      "contact": {
+        "phone": "555-0199",
+        "email": "admissions@salisbury.edu"
+      }
+    },
+    "tuition_breakdown": [
+      {
+        "fee_type": "In-State Tuition",
+        "cost": 15000,
+        "currency": "USD"
+      },
+      {
+        "fee_type": "Out-of-State Tuition",
+        "cost": 30000,
+        "currency": "USD"
+      },
+      {
+        "fee_type": "Technology Fee",
+        "cost": 250,
+        "currency": "USD"
+      }
+    ],
+    "admission_deadlines": [
+      {
+        "deadline_type": "Regular Decision",
+        "deadline_date": "January 15",
+        "notes": "Simulated fall semester deadline."
+      }
+    ],
+    "page_metadata": [
+      {
+        "url": "https://salisbury.edu",
+        "page_title": "Salisbury University, Universities in Maryland",
+        "scraped_at": "2026-06-01T10:41:46.507984",
+        "status_code": "200"
+      },
+      {
+        "url": "https://salisbury.edu/admissions/financial-aid/cost-of-attendance/",
+        "page_title": "Salisbury University Cost of Attendance | Salisbury University",
+        "scraped_at": "2026-06-01T10:41:46.508034",
+        "status_code": "200"
+      },
+      {
+        "url": "https://www.salisbury.edu/admissions/apply-now.aspx",
+        "page_title": "Apply Now | Salisbury University",
+        "scraped_at": "2026-06-01T10:41:46.508041",
+        "status_code": "200"
+      },
+      {
+        "url": "https://salisbury.edu/admissions/apply-now.aspx",
+        "page_title": "Apply Now | Salisbury University",
+        "scraped_at": "2026-06-01T10:41:46.508064",
+        "status_code": "200"
+      },
+      {
+        "url": "https://salisbury.edu/admissions/financial-aid/",
+        "page_title": "Office of Financial Aid & Scholarships at Salisbury University",
+        "scraped_at": "2026-06-01T10:41:46.508069",
+        "status_code": "200"
+      },
+      {
+        "url": "https://salisbury.edu/admissions/",
+        "page_title": "Salisbury University Admissions | Salisbury University",
+        "scraped_at": "2026-06-01T10:41:46.508074",
+        "status_code": "200"
+      },
+      {
+        "url": "https://www.salisbury.edu/admissions/visit-campus.aspx",
+        "page_title": "Welcome to the SU Experience | Salisbury University",
+        "scraped_at": "2026-06-01T10:41:46.508079",
+        "status_code": "200"
+      }
+    ]
+  }
+}
